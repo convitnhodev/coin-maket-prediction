@@ -1,7 +1,7 @@
 ## Information
 
-**Full Name:** Nguyen Van Hai  
-**Student ID:** 20120468
+**Full Name:** Thai Nguyen Viet Hung
+**Student ID:** 20120333
 **Class:** CQ2020/3
 
 ## Requirement
